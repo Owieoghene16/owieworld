@@ -51,6 +51,13 @@ export default function ProjectSection() {
 										 in Nigeria and across the world.
 								</span>
 							</div>
+							<div className="mt-8 w-full lg:w-3/4 text-center lg:text-end">
+								<Link href='about'>
+								  <span className="text-white text-sm tracking-wide bg-gradient-to-r from-red-200 via-red-300 to-yellow-200 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-red-100 dark:focus:ring-red-400 font-medium rounded-full text-center  me-2 px-8 py-4">
+										Learn More
+									</span>
+								</Link>
+              </div>
             </div>
             <div className="flex justify-center">
               <div className="w-full lg:w-5/6">
