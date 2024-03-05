@@ -18,7 +18,7 @@ export default function AboutSection() {
 				  </div>
 				  <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-6 justify-center ">
 						<div className='grid grid-cols-1 gap-6 place-items-center'>
-							<div className="mb-3 w-full md:w-3/4 border border-slate-200 py-8 px-6 shadow-inner">
+							<div className=" w-full md:w-3/4 border border-slate-200 py-8 px-6 shadow-inner">
 								<span className="text-slate-500">Establish in 2010, and precisely registered under the laws of the Federal
 									 Republic of Nigeria in November 2010. Ronald and Partners Consult has sustained
 									  a good reputation in dispensing quality and professional immigration consulting
@@ -26,7 +26,7 @@ export default function AboutSection() {
 										 in Nigeria and across the world.
 								</span>
 							</div>
-							<div className="my-3 w-full md:w-3/4 border border-slate-200 py-8 px-6 shadow-inner">
+							<div className="mb-3 w-full md:w-3/4 border border-slate-200 py-8 px-6 shadow-inner">
 								<span className="text-slate-500">Establish in 2010, and precisely registered under the laws of the Federal
 									 Republic of Nigeria in November 2010. Ronald and Partners Consult has sustained
 									  a good reputation in dispensing quality and professional immigration consulting
