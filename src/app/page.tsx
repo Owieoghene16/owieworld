@@ -10,6 +10,7 @@ import YoungMan from '../../public/young-man.png';
 import Headphone from '../../public/headphone.jpg';
 import Trophy from '../../public/trophy.png';
 import Man from '../../public/man.png';
+import ProjectSection from '../components/landingpage/project';
 import { IoShieldCheckmarkSharp } from "react-icons/io5";
 import useEmblaCarousel from 'embla-carousel-react';
 import Autoplay from "embla-carousel-autoplay";
@@ -97,6 +98,7 @@ export default function Home() {
         </div>
       </main>
       <AboutSection />
+      <ProjectSection />
     </>
   );
 }
