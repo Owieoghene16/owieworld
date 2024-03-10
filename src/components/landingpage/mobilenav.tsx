@@ -47,13 +47,13 @@ export default function MobileNav() {
             </Link>
           </li>
           <li className="relative h-12 flex items-center">
-            <Link href='/home' className='text-lg flex justify-center items-center w-full'>
+            <Link href='#about' className='text-lg flex justify-center items-center w-full'>
               <i className="text-white block text-2xl pr-2"><FaHome /></i>
               <span className='text-2xl text-white'>About</span>
             </Link>
           </li>
           <li className="relative h-12 flex items-center">
-            <Link href='/home' className='text-lg flex justify-center items-center w-full'>
+            <Link href='#project' className='text-lg flex justify-center items-center w-full'>
               <i className="text-white block text-2xl pr-2"><FaHome /></i>
               <span className='text-2xl text-white'>Contact</span>
             </Link>
