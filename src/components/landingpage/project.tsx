@@ -8,7 +8,7 @@ import { Fade } from "react-awesome-reveal";
 export default function ProjectSection() {
   return (
     <>
-		  <section id="#project" className="my-10 font-mono">
+		  <section id="project" className="my-10 font-mono">
 				<div className="px-5">
           <Fade>
 				  <div className="w-full flex justify-center">
